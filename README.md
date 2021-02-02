@@ -1,4 +1,4 @@
-# **Clone página inicial Instagram **
+# Clone página inicial Instagram
 
 Projeto criado para o curso da Digital Innovation One.
 
